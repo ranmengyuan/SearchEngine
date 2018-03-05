@@ -1,5 +1,4 @@
 # SearchEngine
-在网页上爬取信息，建立搜索引擎后台数据库
 
 SearchEngine is a program that getting informations from http://www.cqut.edu.cn. And these infromations will be divided into words and sorted out by TF-IDF. Finally,this informations that had been processed will be saved into database and build direction chart.
 
@@ -35,8 +34,7 @@ mysql-connector etc..And you should also pay attention to the form of the file t
 
 # Problems
 
-If you find a problem such as a crash, an unexpected behaviour, or something similar please visit the [issue tracker](https://github.com/
-ranmengyuan/SearchEngine/issues) and report the issue.
+If you find a problem such as a crash, an unexpected behaviour, or something similar please visit the [issue tracker](https://github.com/ranmengyuan/SearchEngine/issues) and report the issue.
 
 Please be kind and search to see if the issue is already logged before creating a new one. If you're pressed for time, log it anyway.
 
