@@ -6,18 +6,27 @@ SearchEngine is a program that getting informations from http://www.cqut.edu.cn.
 # Getting started
 
 SearchEngine contains Spider, IKAnalyzer, DB , Main and more.
+
 Spider is used to get informations from website.
+
 IKAnalyzer is used to divide sentence into words.
+
 DB is used to control database.
+
 Main is used to manage the total program.
 
 # File Structure
 
 Spider contains some package that is used to get informations from website.
+
 IK contains some package that IKAnalyzer needed.
+
 SQL contains some package that is used to control database.
+
 bin contains some profile. 
+
 src contains all source code.
+
 
 # Supported Platforms
 
