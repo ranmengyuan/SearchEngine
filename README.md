@@ -29,7 +29,7 @@ src contains all source code.
 
 # Supported Platforms
 
-SearchEngine is based on JavaSE-1.8. If you want to operate score, you should download a Java interpreter and some package of java, such as IKAnalyzer,
+SearchEngine is based on JavaSE-1.8. If you want to operate SearchEngine, you should download a Java interpreter and some package of java, such as IKAnalyzer,
 mysql-connector etc..And you should also pay attention to the form of the file that you want to deal.
 
 # Problems
