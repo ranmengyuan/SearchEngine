@@ -1,6 +1,6 @@
 # SearchEngine
 
-SearchEngine is a program that getting informations from http://www.cqut.edu.cn. And these infromations will be divided into words and sorted out by TF-IDF. Finally,this informations that had been processed will be saved into database and build direction chart.
+SearchEngine is a program that gets informations from http://www.cqut.edu.cn. And these infromations will be divided into words and sorted out by TF-IDF. Finally,these informations that had been processed will be saved into database and be used to build direction chart.
 
 # Getting started
 
